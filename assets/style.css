@@ -1,0 +1,39 @@
+.header-title {
+    font-size: 48px;
+    color: rgb(231, 145, 32);
+    text-align: center;
+}
+
+.header-subtitle {
+    font-size: 22px;
+    color: gray;
+    text-align: center;
+}
+
+.header-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70pt;
+    height: 70pt;
+    background-color: rgb(231, 145, 32);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.submit-button {
+	background: #B9DFFF;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+.submit-button:hover {
+	background: #016ABC;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
